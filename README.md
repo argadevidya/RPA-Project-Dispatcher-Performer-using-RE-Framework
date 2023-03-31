@@ -27,7 +27,7 @@ The HR Process for Generating Offer Letter ( Diagram )-
 
 * At the End of the Day - We have to roll our offers to the candidates Hired and send them Offer letters - This Task is Mundane and Repetitive and has scope of Automation.
 
-### motivation
+### Motivation
 With the Introduction on an RPA Robot - The HR Team can focus on the more Important Task and the Mundane task of generating the Offer letter can be given to the Robots.
 
 * Robot Reads the Status Files from Email / Shared Location.
