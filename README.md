@@ -53,3 +53,20 @@ Read Item one by one from the Queue populated by the Dispatcher
 Read the Company’s Offer Letter
 Generate Offer Letter
 Send email to Candidates with Offer Letter as attachments.
+
+### Steps in the project execution
+1.Read excel file data values using read range activity</br>
+2.Open browser to visit "www.rpachallenge.com"</br>
+3.Use anchor base activity->find element and type into activity to input form fields</br>
+4.Use anchor base for all the form fields</br>
+5.Use click activity to click on submit botton</br>
+6.Use loop(step 3- step 5) to type into all fields for every round</br>
+7.after all 10 rounds, the web site will show you the result with achieved accuracy and time</br>
+
+### Technical Aspect
+Dependencies:
+![alt text](https://github.com/argadevidya/RPA-Project-Clothing-Consultant/blob/main/dependencies.png)
+### Installation
+### Steps:
+#### Step 1:
+
