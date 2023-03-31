@@ -23,7 +23,7 @@ The HR Process for Generating Offer Letter ( Diagram )-
 
 * Some are Selected , Some are Rejected
 
-* As there are multiple Recruiters / Students - We keep track of all and maintain Status lets say in an Spreadsheet.
+* As there are multiple Recruiters / Students - We keep track of all and maintain Status lets say in a Spreadsheet.
 
 * At the End of the Day - We have to roll our offers to the candidates Hired and send them Offer letters - This Task is Mundane and Repetitive and has scope of Automation.
 
