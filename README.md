@@ -4,7 +4,6 @@ Generate bulk offer letters in UiPath using RE framework.
 ### Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Demo Video](#demo-video)
   * [Steps in the project execution](#steps-in-the-project-execution)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
@@ -37,6 +36,19 @@ With the Introduction on an RPA Robot - The HR Team can focus on the more Import
 * Generate The Offer letters as per company template
 
 * Send the Offer Letters to the Candidates.
+
+## Here we are using dispatcher-performer robots.Why we need to use this approach ?<br>
+
+Dispatcher is a bot that we create to load some data into the queues/datatables. This data can be later used by another bot called as Performer.
+
+Basically, it is breaking one single big bot (having both functions of loading and performing) into two pieces. One bot loads the data & the other performs over it.
+
+So if you have got a process where it first fetched the input data from a resource and then process it later then use dispatcher and performer concept
+
+Or
+
+If you have a process which is used to keep the input ready for other multiple process then use a single dispatcher process to create new queue items as input so that it can be picked and processed by multiple performer bots
+
 
 ### Steps in the project execution
 Lets have a look at the solution design approach of the use case. we would have the Complete automation in 2 Parts Dispatcher and the Performer. Reason for having 2 robots is Scaling , Transaction Management and maintenance.
