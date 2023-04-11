@@ -10,6 +10,7 @@ Generate bulk offer letters in UiPath using RE framework.
 
 # 𝗥𝗼𝗯𝗼𝘁 𝗳𝗼𝗿 𝗛𝗥 | 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗢𝗳𝗳𝗲𝗿 𝗟𝗲𝘁𝘁𝗲𝗿 | 𝗨𝗶𝗣𝗮𝘁𝗵 | 𝗨𝘀𝗲 𝗰𝗮𝘀𝗲
 
+
 ### Overview 
 Use Case Description:
 Bulk Hiring / Campus Recruitment is a strategy for sourcing and hiring young crowd for internship or entry-level positions for medium- to large-sized companies with high-volume recruiting efforts.
@@ -80,5 +81,5 @@ Dependencies:
 ![alt text](https://github.com/argadevidya/RPA-Project-Clothing-Consultant/blob/main/dependencies.png)
 ### Installation
 ### Steps:
-#### Step 1:
+#### Step
 
